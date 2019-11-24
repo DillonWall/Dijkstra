@@ -1,0 +1,6 @@
+﻿  Dijkstra.cpp
+  Driver.cpp
+  ShortestPath.cpp
+  Generating Code...
+d:\program files (x86)\visual studio projects\dijkstra\dijkstra\vertex.h(186): warning C4715: 'Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetEdge': not all control paths return a value
+  Dijkstra.vcxproj -> D:\Program Files (x86)\Visual Studio Projects\Dijkstra\Debug\Dijkstra.exe
